@@ -57,3 +57,9 @@ if st.button('Predict'):
             st.header("Spam")
         else:
             st.header("Not Spam")
+
+
+st.title("SMS SPAM DETECTION SYSTEM")
+st.title("GROUP MEMBERS")
+st.title("1.SRIJEET DAS")
+st.title("2.PARNA HR")
