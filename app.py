@@ -59,7 +59,4 @@ if st.button('Predict'):
             st.header("Not Spam")
 
 
-st.title("SMS SPAM DETECTION SYSTEM")
-st.title("GROUP MEMBERS")
-st.title("1.SRIJEET DAS")
-st.title("_2.PARNA_ is :blue[HR] :sunglasses:")
+
